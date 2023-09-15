@@ -1,5 +1,3 @@
-package uk.ac.cam.yhc49.prejava.ex2;
-
 class PackedLong {
     public static long set(long v, int i, boolean val) {
         if (val) {
