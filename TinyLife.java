@@ -1,5 +1,3 @@
-package uk.ac.cam.yhc49.prejava.ex2;
-
 class TinyLife {
 	public static boolean getCell(long world, int col, int row) {
 		if (col < 0 | col > 7 | row < 0 | row > 7)
