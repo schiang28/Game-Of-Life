@@ -1,5 +1,3 @@
-package uk.ac.cam.yhc49.prejava.ex4;
-
 public class FibonacciCache {
 
     // Uninitialised array
