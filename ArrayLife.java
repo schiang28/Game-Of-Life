@@ -1,5 +1,3 @@
-package uk.ac.cam.yhc49.prejava.ex3;
-
 class ArrayLife {
 	public static boolean getCell(boolean[][] world, int col, int row) {
         if (row < 0 || row > world.length - 1) return false;
